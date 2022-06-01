@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Computer Science student at UBC Vancouver.
-- 🌱 I’m **currently developing a full-stack web app to query UBC's metadata** using TypeScript and JavaScript.
+- 🌱 I’m **currently developing a full-stack web app to lend and borrow items within a neighbourhood** using MERN stack.
 - 👀 I want to further explore coding in Python, via the Python #100DaysOfCodeChallenge by the LondonAppBrewery.
 - 😬 <b>*Actively* looking for CO-OP opportunities</b>
 - 🔗 Find me on **LinkedIn** : https://www.linkedin.com/in/anusha-s-dev/
-- 🔗 Visit my **CS blog**: https://codenavigator019.wixsite.com/codenavigator01
-- 💬 Ask me about life as an Engineer-turned-CS student!
+- 💬 Ask me about life as a Chemical Engineer-turned-CS student!
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: code.navigator01@gmail.com
-- ⚡ Fun fact: I love learning to code and design, looking into UI/UX
+
 
