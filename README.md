@@ -5,7 +5,7 @@
 - 👀 I want to further explore coding in Python, via the Python #100DaysOfCodeChallenge by the LondonAppBrewery.
 - 👀 Also want to explore Wordpress development using Udemy!
 - 😬 <b>*Actively* looking for CO-OP opportunities</b>
-- 🔗 Find me on **LinkedIn** : https://www.linkedin.com/in/anusha-s-dev/
+- 🔗 Find me on **LinkedIn** : https://www.linkedin.com/in/nyananu/
 - 💬 Ask me about life as a Chemical Engineer-turned-CS student!
 - 😄 Pronouns: She/Her
 
